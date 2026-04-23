@@ -1,4 +1,4 @@
-<h1>Hi, I'm Josh, an <a href="https://linkedin.com/in/Josh">IT Professional</a>☺</h1>
+<h1>Hi, I'm April, an <a href="https://linkedin.com/in/Josh">IT Support Specialist
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
@@ -18,7 +18,7 @@
 
 [twitter]: https://twitter.com/Josh
 [instagram]: https://www.instagram.com/Josh
-[linkedin]: https://linkedin.com/in/Josh
+[linkedin] : www.linkedin.com/in/april-fox-3353a93a7
 
 
 
