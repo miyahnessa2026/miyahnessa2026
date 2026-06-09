@@ -19,7 +19,6 @@
   <h2>🤳Connect with me:</h2>
 
 
-[<img align="left" alt="April | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
 [linkedin] : www.linkedin.com/in/april-fox-3353a93a7
