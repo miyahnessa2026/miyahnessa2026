@@ -1,7 +1,7 @@
 
 <h1>Hi, I'm April Fox, an <a href="https://linkedin.com/in/april-fox-3353a93a7">IT Support Specialist 
 
-<h2>👨‍💻 Information Technology Projects:</h2>
+<h2>👨‍💻 Information Technology Lab Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   
